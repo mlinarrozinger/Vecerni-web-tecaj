@@ -1,1 +1,1 @@
-fakebook domaèa naloga brez css
+domaèa naloga s CSS

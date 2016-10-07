@@ -1,0 +1,31 @@
+body {
+    background-color:#3e9b7d;        
+}
+img {
+    border:5px dotted red;
+    border-radius: 5%;
+}
+h1 {
+    font-size:38px;
+    font-family:Comic Sans MS;
+    color:ghostwhite;
+    }
+h2 {
+    font-size:32px;
+    font-family:Comic Sans MS;
+    color:#6bf4bd;
+    font-weight:800;
+}
+span {
+    font-weight:bold; 
+}
+ul div {
+    background-color: crimson;
+    width: 50%;
+}
+button {
+    height: 50px;
+    background-color: crimson;
+    font-family: cursive;
+    border-radius: 50%;
+}
